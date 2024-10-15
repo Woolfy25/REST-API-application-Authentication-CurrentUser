@@ -1,5 +1,13 @@
 ## GoIT Node.js Course Template Homework
 
+Screenshot results links:
+https://ibb.co/Mn8n4TP
+https://ibb.co/C7tMyfx
+https://ibb.co/QCpbR2P
+https://ibb.co/kck1FJK
+https://ibb.co/vwWxBrm
+https://ibb.co/FwVWZg2
+
 Realizează un fork al acestui repozitoriu pentru a îndeplini temele de acasă (2-6). Fork-ul va crea un repozitoriu pe contul tău de pe http://github.com
 
 Adaugă mentorul la colaborare.
